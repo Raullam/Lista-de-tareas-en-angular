@@ -1,4 +1,6 @@
 # Lista de Tareas
+![](https://github.com/Raullam/Lista-de-tareas-en-angular/blob/main/assets/Sin%20t%C3%ADtulo.png?raw=true)
+
 
 Este proyecto fue generado usando [Angular CLI](https://github.com/angular/angular-cli) versión 19.2.5.
 
